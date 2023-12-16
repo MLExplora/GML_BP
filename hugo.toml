@@ -1,4 +1,8 @@
-baseURL = 'https://MLExplora.github.io/GML_BP/'
+baseURL = "https://MLExplora.github.io/GML_BP/"
 languageCode = 'en-us'
 title = 'My New Hugo Site by Yass'
 theme = 'PaperMod'
+baseURL = "https://yass43.github.io/MLETry/"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "PaperMod"
