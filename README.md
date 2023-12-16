@@ -1,2 +1,2 @@
  # READ ME
-# GML_BP
+Repo for the GML_Blog_post
